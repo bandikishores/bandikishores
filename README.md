@@ -93,6 +93,8 @@ This is where I experiment and push my code
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
+  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=bandikishores"/>
+  <br/>
   <a href='https://profile.codersrank.io/user/bandikishores/'>
   <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=bandikishores&padding=30&show-other-skills=true"
