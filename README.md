@@ -8,6 +8,7 @@ This is where I experiment and push my code
 [![Website](https://img.shields.io/badge/Kishore-Bandi-blueviolet?style=for-the-badge)](https://www.bandikishores.com)
 
 
+
 ### ✨&nbsp;&nbsp;About&nbsp;Me
   <b>I'm a Father, Developer and Mentor!!</b>
 
@@ -29,9 +30,10 @@ This is where I experiment and push my code
 <p align="left">
 <a href="https://twitter.com/bandikishores" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bandikishores" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bandikishores" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bandikishores" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/1925997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
 <a href="https://instagram.com/bandikishores" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bandikishores" height="30" width="40" /></a>
 <a href="https://dev.to/bandikishores" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="bandikishores" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/1925997/kishore-bandi" target="blank"><img align="center" src="https://stackoverflow.com/users/flair/1925997.png?theme=dark" alt="bandikishores" height="60" width="220" /></a>
+ 
 
 <br />
 <br />
