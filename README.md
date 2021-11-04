@@ -3,7 +3,7 @@
 This is where I experiment and push my code
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/bandikishores)
-[![Kishore's Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/1925997?color=orange&&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/1925997/kishore-bandi "Kishore's Stack Overflow Reputation")
+[![Kishore's Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/1925997?color=orange&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/1925997/kishore-bandi "Kishore's Stack Overflow Reputation")
 [![Twitter Follow](https://img.shields.io/twitter/follow/bandikishores?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbandikishores&screen_name=bandikishores)
 [![Website](https://img.shields.io/badge/Kishore-Bandi-blueviolet?style=for-the-badge)](https://www.bandikishores.com)
 
@@ -37,8 +37,9 @@ This is where I experiment and push my code
 <br />
 
 ---
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
-  <p>
+
+### 🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools
+<p>
 
 
 ![bigdata](https://img.shields.io/badge/technology-bigdata-informational?style=for-the-badge&logo=bigdata&logoColor=white&color=2bbc8a)
@@ -87,8 +88,6 @@ This is where I experiment and push my code
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 </p>
-<br />
-<br />
 
 ---
 <details>
