@@ -49,9 +49,16 @@ This is where I experiment and push my code
 ![storm](https://img.shields.io/badge/tools-storm-informational?style=for-the-badge&logo=apache-storm&logoColor=white&color=2bbc8a)
 ![debezium](https://img.shields.io/badge/tools-debezium-informational?style=for-the-badge&logo=debezium&logoColor=white&color=2bbc8a)
 ![cockroach](https://img.shields.io/badge/database-cockroachdb-informational?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white&color=2bbc8a)
-![postgresql](https://img.shields.io/badge/database-postgresql-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=2bbc8a)
-![arango](https://img.shields.io/badge/tools-arangodb-informational?style=for-the-badge&logo=arangodb&logoColor=white&color=2bbc8a)
-![mongodb](https://img.shields.io/badge/tools-mongodb-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=2bbc8a)
+![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![arango](https://img.shields.io/badge/database-arangodb-informational?style=for-the-badge&logo=arangodb&logoColor=white&color=2bbc8a)
+![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![camel](https://img.shields.io/badge/tools-camel-informational?style=for-the-badge&logo=apache-camel&logoColor=white&color=2bbc8a)
+![hbase](https://img.shields.io/badge/tools-hbase-informational?style=for-the-badge&logo=apache-hbase&logoColor=white&color=2bbc8a)
+![secor](https://img.shields.io/badge/tools-secor-informational?style=for-the-badge&logo=secor&logoColor=white&color=2bbc8a)
+![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![qldb](https://img.shields.io/badge/database-qldb-informational?style=for-the-badge&logo=amazon&logoColor=white&color=2bbc8a)
+![glue](https://img.shields.io/badge/tools-glue-informational?style=for-the-badge&logo=amazon&logoColor=white&color=2bbc8a)
+![aerospike](https://img.shields.io/badge/database-aerospike-informational?style=for-the-badge&logo=aerospike&logoColor=white&color=2bbc8a)
 <br/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
@@ -71,6 +78,7 @@ This is where I experiment and push my code
 <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+![activiti](https://img.shields.io/badge/activiti-informational?style=for-the-badge&logo=activiti&logoColor=white&color=2bbc8a)
 <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
 <br/>
