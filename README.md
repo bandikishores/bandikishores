@@ -40,7 +40,8 @@ This is where I experiment and push my code
 
 ---
 
-### 🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools
+<details>
+  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
 <p>
 
 
@@ -96,6 +97,7 @@ This is where I experiment and push my code
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 </p>
+</details>
 
 ---
 <details>
